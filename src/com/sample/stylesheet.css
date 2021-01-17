@@ -1,0 +1,15 @@
+
+.root{
+    -fx-font-size: 20pt;
+    -fx-font-family: "Times New Roman", Times, serif;
+    -fx-background: #2199de;
+    -fx-focus-color: #eb0909;
+}
+
+.button{
+    -fx-background-color: #2b55ad;
+    -fx-font-color: #000000;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 10;
+}
